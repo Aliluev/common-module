@@ -86,17 +86,4 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    <dependencies>
-        <dependency>
-            <groupId>org.apache.activemq</groupId>
-            <artifactId>activemq-cf</artifactId>
-            <version>5.17.0</version>
-            <scope>import</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.activemq</groupId>
-            <artifactId>activemq-pool</artifactId>
-            <version>5.17.0</version>
-        </dependency>
-    </dependencies>
 </project>
